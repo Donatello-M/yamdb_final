@@ -23,10 +23,9 @@ class FullAccess(permissions.BasePermission):
         if request.method in permissions.SAFE_METHODS:
             return True
 
-        res = (request.user.is_moderator
-               or request.user.is_admin
-               or request.user == obj.author)
-        return res
+        return (request.user.is_moderator
+                or request.user.is_admin
+                or request.user == obj.author)
 
 
 class IsAdminOrReadOnly(permissions.BasePermission):
