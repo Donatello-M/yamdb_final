@@ -1,4 +1,4 @@
-# api_yamdb
+# api_yamd
 ![example workflow](https://github.com/Donatello-M/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 Сервис api_yamdb позволяет просматривать информацию
