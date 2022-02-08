@@ -1,5 +1,6 @@
 # api_yamdb
 ![example workflow](https://github.com/Donatello-M/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 Сервис api_yamdb позволяет просматривать информацию
 о различных художественных произведениях разных жанров.
 Помимо просмотра, у вас будет возможность оставлять отзывы
@@ -12,7 +13,7 @@
 
 ## Ссылка на проект
 ```
-http://51.250.31.105/
+http://donatello1712.ddns.net/admin
 ```
 ## Как запустить проект:
 
