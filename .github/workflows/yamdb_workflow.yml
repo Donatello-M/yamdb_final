@@ -28,6 +28,7 @@ jobs:
         # установка зависимостей
         cd api_yamdb
         pip install -r requirements.txt 
+        cd ..
 
     - name: Test with flake8 and django tests
       run: |
