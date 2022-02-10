@@ -1,4 +1,4 @@
-# api_yamd
+# api_yamdb
 ![example workflow](https://github.com/Donatello-M/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 Сервис api_yamdb позволяет просматривать информацию
@@ -13,7 +13,9 @@
 
 ## Ссылка на проект
 ```
-http://donatello1712.ddns.net/admin
+http://51.250.19.23/admin
+
+С доменом какая-то фигня, работает через раз, сил разбираться не осталось, оставлю так
 ```
 ## Как запустить проект:
 
